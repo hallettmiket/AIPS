@@ -2,7 +2,7 @@
 
 This github repository contains the R package that could be used to partition breast cancer gene expression profile(s) using the 1733 models defined in AIPS.
 
-This is a fork of the repository built by my ex-PhD student Eric Paquet!
+This is a fork of the repository built by my ex-PhD student <strong>Eric Paquet</strong>!
 
 Here is how you could install AIPS in R :
 
